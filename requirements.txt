@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+numpy
+sklearn
+gunicorn
+uwsgi
