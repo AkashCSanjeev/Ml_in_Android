@@ -1,6 +1,5 @@
 from flask import Flask
 from flask_restful import Api
-from flask_jwt import JWT
 from Resource.model import Model
 
 #  For authentication we can use Flask-JWT (pip)
